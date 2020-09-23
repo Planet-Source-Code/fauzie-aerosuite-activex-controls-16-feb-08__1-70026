@@ -1,0 +1,7 @@
+Credits :
+- dcButton by Noel A. Dacara
+- ucCoolList 1.2 by Carles P.V.
+- ucScrollbar v1.0.4 by Carles P.V.
+- ucXTab v1.0.152 by Paul R. Territo, Ph.D
+- Subclassing Routines by Paul Caton
+- 32bppDIB Class Modules and LaVolpe Custom Window I by LaVolpe
